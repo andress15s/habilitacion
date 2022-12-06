@@ -1,0 +1,13 @@
+diseñar una libreta que contenga el numero de hojas totales, limpias y de hojas utiliadas asi como el estado de sus hojas
+cada una puede esta limpia utilizada o haber sido arrancada el comportamiento sera asi:
+
+al crear una libreta se indicara cuantas hojas totales tiene . el minimo de hojas es de 10 el maximo es de 150 si se intenta
+crear una fuera de esto se creara una por defaul de 50 hojas
+
+utilizar un arreglo y tomar cada una de sus elementos para considerar el estado de cada una de las hojas
+: "0 " es una hoja limpia, A es una hoja arrancada y x es yna hoja utilizada.
+
+es posible utilizar hojas de la libreta  in dicando el numero de hoja que se quiere utilizar pueden utilizarce 
+hojas de una manera repetitiva  hasta indicar el numero de hoja inexistente
+es posible agragar hojas a la libreta pero no se puede pasar de 150
+se debe imprimir el numero de hojas de la libreta cuantas han sido arrancadas  cuantas usadas y cuantas limpias 
